@@ -1,5 +1,5 @@
-// Chapter 2PS
-// Problem No 1
+
+// No 1
 
 
 let age1 = prompt("What is your age?")
@@ -14,7 +14,7 @@ else {
 
 
 
-// // Problem No 3
+// //  No 2
 
 // let num = prompt("What is your age?")
 // num = Number.parseInt(num)
@@ -26,7 +26,7 @@ else {
 // }
 
 
-// // Problem No 5
+// //  3
 // let age3 = 19
 // let a = age3 > 18 ? "You can drive" : "You cannot drive"
 // console.log(a)
