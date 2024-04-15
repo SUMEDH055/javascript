@@ -1,5 +1,5 @@
 let a = prompt("Hey whats you age?");
-a = Number.parseInt(a);           // Converting the string to a number
+a = Number.parseInt(a);           
 if(a<0){
   alert("This is an invalid age");
 }
@@ -13,5 +13,5 @@ else{
   alert("You can now drive as you are above 18");
 }
 console.log("Done")
-// HomeWork - Explore switch statement and write a basic program in the comments
+
 console.log("You can", (a<18? "not drive" :"drive"))
